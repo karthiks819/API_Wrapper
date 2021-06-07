@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCDDC2C7-EF08-4B1E-8DE2-AD3F1267EDDA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B446B91-CDF9-4458-8DF0-723008227AB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnumAPIHeaders/EnumAPI/EnumViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B446B91-CDF9-4458-8DF0-723008227AB6 - 24ed4767c9740e5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnumAPIHeaders.EnumViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "EnumAPIHeaders"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/karthik_Samples/EnumAPIHeaders/EnumAPIHeaders/EnumAPI/EnumViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "8B446B91-CDF9-4458-8DF0-723008227AB6 - d709b5e2422e2e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;EnumAPIHeaders.RSSFeedResponseModel, Alamofire.AFError&gt;) -&gt; () in EnumAPIHeaders.EnumViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "EnumAPIHeaders"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/karthik_Samples/EnumAPIHeaders/EnumAPIHeaders/EnumAPI/EnumViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
